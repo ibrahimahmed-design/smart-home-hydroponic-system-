@@ -27,18 +27,7 @@ The system is designed to automate home-based hydroponic farming using sensors, 
 - Provide an affordable, smart agriculture solution for homes.
 - Promote sustainable food production in urban environments.
 - Use IoT and automation to reduce user intervention.
-
----
-
-## Project Status
-
-- [x] System Design Completed
-- [ ] Tinkercad 3D Model In Progress
-- [ ] Hardware Assembly
-- [ ] App Interface Design
-- [ ] Final Testing and Presentation
-
----
+- 
 
 ## License
 
