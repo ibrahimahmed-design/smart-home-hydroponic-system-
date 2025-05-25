@@ -29,13 +29,7 @@ This system allows users to grow plants using hydroponics while managing water i
 - Relay Module
 - Tubing and NFT channels
 
-## Reference Image
 
-
-![Hydroponic System](https://img10.en25.com/Web/MadeinChinaLimited/%7Bcc8e6c55-c43d-4208-a8d4-6a3fd3ed63eb%7D_made_in_china_gardening.png)
-
-
-> **Note:** This image is only a reference. It is not my actual project. I used it because it represents a similar idea. My real project will include added features, improved design, and enhanced components.
 
 ## How it Works
 
