@@ -12,26 +12,6 @@ The system is designed to automate home-based hydroponic farming using sensors, 
 - Firebase integration
 - A mobile Smart Grow App
 
----
-
-## System Architecture
-
-### Diagram 1
-
-![Hydroponic Diagram 1](images/hydroponic-diagram-1.jpg)
-
-This diagram illustrates how ESP32 boards are connected to sensors, and how the data flows through Firebase to the Smart Grow App. It also shows the layout of water reservoirs, pumps, and sensor placements.
-
----
-
-### Diagram 2
-
-![Hydroponic Diagram 2](images/hydroponic-diagram-2.jpg)
-
-This diagram provides a simplified view of the water circulation and nutrient delivery system used in the hydroponic setup.
-
----
-
 ## How it Works
 
 1. Sensors monitor the plant environment (pH, water level, temperature, EC).
