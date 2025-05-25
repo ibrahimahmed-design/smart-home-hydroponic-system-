@@ -1,50 +1,65 @@
 # Smart Home Hydroponic System
 
-This is a smart hydroponic system designed for home agriculture that helps monitor and manage water usage efficiently while supporting sustainable vertical farming.
+This repository contains the design and documentation for a **Smart Home Hydroponic System**, developed as part of the Hack Club - Highway to Undercity hackathon.
 
 ## Overview
 
-This system allows users to grow plants using hydroponics while managing water intelligently through sensors and microcontrollers. It's designed to be low-cost, easy to use, and suitable for homes, rooftops, or small spaces.
+The system is designed to automate home-based hydroponic farming using sensors, microcontrollers, and real-time monitoring via a mobile app. It includes:
 
-## Features
-
-- Smart water level monitoring
-- Automated water recycling
-- Solar-powered system
-- Temperature & humidity monitoring
-- pH and EC (electrical conductivity) sensor integration
-- LCD screen for real-time display
-- Mobile app or dashboard control (planned)
-- IoT connectivity (planned)
-
-## Components & Technologies
-
-- Arduino UNO / ESP32
-- Water level sensors
-- pH and EC sensors
-- LCD 16x2 / OLED Display
-- Solar panel
-- Submersible pump
-- DHT11 or DHT22 for temperature and humidity
-- Relay Module
-- Tubing and NFT channels
-
-
-
-## How it Works
-
-1. The system uses sensors to detect water levels and environmental conditions.
-2. Based on the data, the microcontroller adjusts pump activity and displays the data.
-3. Future updates will include connectivity with a dashboard and solar optimization.
-
-## Future Improvements
-
-- Real-time monitoring via mobile app
-- Fully enclosed structure with automated ventilation
-- Improved AI-based watering schedule
+- ESP32 microcontrollers
+- Water level, pH, temperature, and EC sensors
+- Water and nutrient pumps
+- Firebase integration
+- A mobile Smart Grow App
 
 ---
 
-## About
+## System Architecture
 
-This project was created for the [Hack Club – Highway to Undercity](https://hackclub.com) program. I’m very passionate about using technology to create environmental and agricultural solutions.
+### Diagram 1
+
+![Hydroponic Diagram 1](images/hydroponic-diagram-1.jpg)
+
+This diagram illustrates how ESP32 boards are connected to sensors, and how the data flows through Firebase to the Smart Grow App. It also shows the layout of water reservoirs, pumps, and sensor placements.
+
+---
+
+### Diagram 2
+
+![Hydroponic Diagram 2](images/hydroponic-diagram-2.jpg)
+
+This diagram provides a simplified view of the water circulation and nutrient delivery system used in the hydroponic setup.
+
+---
+
+## How it Works
+
+1. Sensors monitor the plant environment (pH, water level, temperature, EC).
+2. Data is sent via ESP32 to Firebase in real-time.
+3. The Smart Grow App displays this data and allows manual or automatic control.
+4. The water and nutrient pumps are activated based on sensor readings and thresholds.
+5. The system helps optimize plant growth while minimizing water and nutrient waste.
+
+---
+
+## Goals
+
+- Provide an affordable, smart agriculture solution for homes.
+- Promote sustainable food production in urban environments.
+- Use IoT and automation to reduce user intervention.
+
+---
+
+## Project Status
+
+- [x] System Design Completed
+- [ ] Tinkercad 3D Model In Progress
+- [ ] Hardware Assembly
+- [ ] App Interface Design
+- [ ] Final Testing and Presentation
+
+---
+
+## License
+
+This project is licensed under the MIT License. Feel free to use and modify it with attribution.
