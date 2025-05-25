@@ -31,7 +31,7 @@ This system allows users to grow plants using hydroponics while managing water i
 
 ## Reference Image
 
-![Reference Design](https://i.imgur.com/FKCVjVj.jpeg)
+![Reference Design](https://sa.made-in-china.com/co_cnplant/product_Smart-Vertical-Hydroponic-Growing-System-for-Indoor-Gardens_ysiroououy.html.jpeg)
 
 > **Note:** This image is only a reference. It is not my actual project. I used it because it represents a similar idea. My real project will include added features, improved design, and enhanced components.
 
