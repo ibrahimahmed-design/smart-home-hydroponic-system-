@@ -21,6 +21,8 @@ The system is designed to automate home-based hydroponic farming using sensors, 
 5. The system helps optimize plant growth while minimizing water and nutrient waste.
 
 ---
+![It's not my design but I'll use it as a reference model and I've developed it by adding a ph sensor, humidity and temperature sensor and an automatic watering system.](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.jumpstartmag.com%2Fwp-content%2Fuploads%2F2021%2F04%2Fagro_1.jpg&tbnid=3dSK1vrAv7oTeM&vet=1&imgrefurl=https%3A%2F%2Fwww.jumpstartmag.com%2Fsmart-ai-gardens-the-next-big-step-in-hydroponics%2F&docid=OU-ux12XcmS5eM&w=650&h=840&hl=az&source=sh%2Fx%2Fim%2Fm6%2F4&kgs=7c569cc9d4690ea8&shem=isst) 
+---
 
 ## Goals
 
